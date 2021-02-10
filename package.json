@@ -1,0 +1,27 @@
+{
+  "name": "groot-pro",
+  "version": "1.0.0",
+  "description": "react web application pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onejustone/groot-pro.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "rxjs",
+    "akita",
+    "groot-cli",
+    "groot-ui"
+  ],
+  "author": "onejustone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onejustone/groot-pro/issues"
+  },
+  "homepage": "https://github.com/onejustone/groot-pro#readme"
+}
